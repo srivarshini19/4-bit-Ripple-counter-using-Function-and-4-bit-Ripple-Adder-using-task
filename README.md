@@ -59,7 +59,7 @@ endmodule
 # 4 bit Ripple counter using Function
 // 4-bit Ripple Counter using Function
 module ripple_counter_func (
-    input clk, rst,
+    input clk, rst, 
     output reg [3:0] Q
 );
 
